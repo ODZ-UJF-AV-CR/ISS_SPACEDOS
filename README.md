@@ -1,2 +1,2 @@
-# ISS_SPACEDOS
-Data processing of ISS measurement by SPACEDOS device
+# ISS SPACEDOS
+Data processing scripts of ISS measurements by [SPACEDOS device](https://github.com/UniversalScientificTechnologies/SPACEDOS02)
